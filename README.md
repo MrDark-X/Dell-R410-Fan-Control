@@ -17,11 +17,10 @@ A lightweight, Dockerized web application that monitors and controls the fan spe
 
 ## 🛠️ How to Use
 
-### 🐳 1. Clone the Repository
+### 🐳 1. Download the file from my Drive
 
 ```bash
-git clone https://github.com/MrDark-X/Dell-R410-Fan-Control.git
-cd fan-control-web
+https://drive.google.com/file/d/1QQ_NDHZ3r0Bf8bBvVLd2QihwMTb9ipLI/view?usp=sharing
 ```
 ---
 ### 🐋 2. Build the Docker Image
